@@ -7,7 +7,7 @@
 
 import Foundation
 
-func getNumberOfGreatXOR (x :Int) -> Int {
+func getNumberOfGreatXOR (_ x :Int) -> Int {
   var x = x
   var result : Int = 0
   var bitPos : Int = 0
@@ -26,6 +26,7 @@ func getNumberOfGreatXOR (x :Int) -> Int {
 let n = Int(readLine()!)!
 var arr : [Int] = []
 for _ in 0..<n {
-  arr.append(getNumberOfGreatXOR(x: Int(readLine()!)!))
+  arr.append(getNumberOfGreatXOR(Int(readLine()!)!))
 }
+
 print(arr.map({"\($0)"}).joined(separator: "\n"))
