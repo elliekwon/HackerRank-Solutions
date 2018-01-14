@@ -17,7 +17,6 @@ func greatestCommonDivisor(_ a: Int, _ b: Int) -> Int {
 }
 
 var result : [Int] = []
-
 let t = Int(readLine()!)!
 for _ in 0..<t {
   let arr = readLine()!.components(separatedBy: " ").map{ Int($0)! }
