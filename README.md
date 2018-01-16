@@ -15,9 +15,9 @@ HackerRank solutions in Swift (https://www.hackerrank.com/bkkwon656).
 ## Mathematics
 | Subdomains | Challenge | Difficulty | Language | Date |
 | ---------- | --------- | :--------: | :------: | :--: |
-| Fundamentals | [Halloween party](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Halloween- party.swift)  | Easy       | Swift |  2017.12.29 |
+| Fundamentals | [Halloween party](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Halloween-party.swift) | Easy | Swift |  2017.12.29 |
 | Fundamentals | [Army Game](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Army-Game.swift)  | Easy       | Swift |  2018.01.05 |
-| Fundamentals | [Restaurant](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Restaurant.swift)  | Easy       | Swift |  2018.01.11 |
-| Fundamentals | [Maximum Draws](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Maximum-Draws.swift)  | Easy       | Swift |  2018.01.12 |
+| Fundamentals | [Restaurant](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Restaurant.swift)  | Easy | Swift |  2018.01.11 |
+| Fundamentals | [Maximum Draws](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Mathematics/Fundamentals/Maximum-Draws.swift)  | Easy | Swift |  2018.01.12 |
 
 
