@@ -9,6 +9,7 @@ HackerRank solutions in Swift (https://www.hackerrank.com/bkkwon656).
 | Implementation | [Utopian Tree](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Implementation/Utopian-Tree.swift)  | Easy | Swift | 2018.01.03 |
 | Implementation | [Apple and Orange](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Implementation/Apple-and-Orange.swift)  | Easy | Swift | 2018.01.15 |
 | Greedy | [Permuting Two Arrays](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Greedy/Permuting-Two-Arrays.swift) | Easy | Swift | 2018.01.09 |
+| Bit Manipulation | [Maximizing XOR](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Bit%20Manipulation/Maximizing-XOR.swift) | Easy | Swift | 2018.01.02 |
 | Bit Manipulation | [The Great XOR](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Bit%20Manipulation/The-Great-XOR.swift) | Easy | Swift | 2018.01.08 |
 
 ## Mathematics
