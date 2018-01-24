@@ -11,6 +11,7 @@ HackerRank solutions in Swift (https://www.hackerrank.com/bkkwon656).
 | Implementation | [Angry Professor](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Implementation/Angry-Professor.swift)  | Easy | Swift | 2018.01.17 |
 | Implementation | [Kangaroo](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Implementation/Kangaroo.swift)  | Easy | Swift | 2018.01.18 |
 | Implementation | [Migratory Birds](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Implementation/Migratory-Birds.swift)  | Easy | Swift | 2018.01.18 |
+| Greedy | [Luck Balance](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Greedy/Luck-Balance.swift) | Easy | Swift | 2017.12.21 |
 | Greedy | [Max Min](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Greedy/Max-Min.swift) | Easy | Swift | 2017.12.28 |
 | Greedy | [Permuting Two Arrays](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Greedy/Permuting-Two-Arrays.swift) | Easy | Swift | 2018.01.09 |
 | Bit Manipulation | [Maximizing XOR](https://github.com/elliekwon/HackerRank-Solutions/blob/master/Algorithms/Bit%20Manipulation/Maximizing-XOR.swift) | Easy | Swift | 2018.01.02 |
